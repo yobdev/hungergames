@@ -241,6 +241,6 @@ lootItems:
     maxAmount: 16
   '43':
     material: IRON_PICKAXE
-    chance: 0.2
+    chance: 0.4
     minAmount: 1
     maxAmount: 1
