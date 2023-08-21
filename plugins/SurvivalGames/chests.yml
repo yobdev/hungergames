@@ -1,0 +1,243 @@
+lootItems:
+  '0':
+    material: IRON_SWORD
+    name: '&6Fire Sword'
+    enchantments:
+      FIRE_ASPECT: 1
+    chance: 0.09
+    minAmount: 1
+    maxAmount: 1
+  '1':
+    material: IRON_SWORD
+    enchantments:
+      SHARPNESS: 1
+    chance: 0.09
+    minAmount: 1
+    maxAmount: 1
+  '2':
+    material: IRON_SWORD
+    chance: 0.4
+    minAmount: 1
+    maxAmount: 1
+  '3':
+    material: STONE_SWORD
+    enchantments:
+      sharpness: 3
+    chance: 0.09
+    minAmount: 1
+    maxAmount: 1
+  '4':
+    material: BOW
+    name: '&5Infinity Bow'
+    enchantments:
+      INFINITY: 1
+    chance: 0.09
+    minAmount: 1
+    maxAmount: 1
+  '5':
+    material: BOW
+    name: '&6Fire Bow'
+    enchantments:
+      FLAME: 1
+    chance: 0.09
+    minAmount: 1
+    maxAmount: 1
+  '6':
+    material: BOW
+    name: '&3Punch Bow'
+    enchantments:
+      PUNCH: 3
+    chance: 0.09
+    minAmount: 1
+    maxAmount: 1
+  '7':
+    material: BOW
+    enchantments:
+      POWER: 2
+    chance: 0.09
+    minAmount: 1
+    maxAmount: 1
+  '8':
+    material: GOLDEN_AXE
+    name: '&a$Money Axe$'
+    enchantments:
+      UNBREAKING: 10
+      EFFICIENCY: 10
+    chance: 0.05
+    minAmount: 1
+    maxAmount: 1
+  '9':
+    material: IRON_AXE
+    chance: 0.4
+    minAmount: 1
+    maxAmount: 1
+  '10':
+    material: IRON_AXE
+    enchantments:
+      SHARPNESS: 1
+    chance: 0.09
+    minAmount: 1
+    maxAmount: 1
+  '11':
+    material: SHIELD
+    chance: 0.2
+    minAmount: 1
+    maxAmount: 1
+  '12':
+    material: CROSSBOW
+    enchantments:
+      QUICK_CHARGE: 2
+    chance: 0.2
+    minAmount: 1
+    maxAmount: 1
+  '13':
+    material: CROSSBOW
+    chance: 0.4
+    minAmount: 1
+    maxAmount: 1
+  '14':
+    material: ARROW
+    chance: 0.8
+    minAmount: 4
+    maxAmount: 16
+  '15':
+    material: CHAINMAIL_HELMET
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 1
+  '16':
+    material: CHAINMAIL_CHESTPLATE
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 1
+  '17':
+    material: CHAINMAIL_LEGGINGS
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 1
+  '18':
+    material: CHAINMAIL_BOOTS
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 1
+  '19':
+    material: IRON_HELMET
+    chance: 0.15
+    minAmount: 1
+    maxAmount: 1
+  '20':
+    material: IRON_CHESTPLATE
+    chance: 0.15
+    minAmount: 1
+    maxAmount: 1
+  '21':
+    material: IRON_LEGGINGS
+    chance: 0.15
+    minAmount: 1
+    maxAmount: 1
+  '22':
+    material: IRON_BOOTS
+    chance: 0.15
+    minAmount: 1
+    maxAmount: 1
+  '23':
+    material: EXPERIENCE_BOTTLE
+    chance: 0.4
+    minAmount: 1
+    maxAmount: 10
+  '24':
+    material: GOLDEN_PICKAXE
+    name: '&a$Money Pickaxe$'
+    enchantments:
+      UNBREAKING: 10
+      EFFICIENCY: 10
+    chance: 0.05
+    minAmount: 1
+    maxAmount: 1
+  '25':
+    material: COAL
+    chance: 0.3
+    minAmount: 2
+    maxAmount: 5
+  '26':
+    material: IRON_INGOT
+    chance: 0.15
+    minAmount: 1
+    maxAmount: 4
+  '27':
+    material: RAW_IRON
+    chance: 0.15
+    minAmount: 1
+    maxAmount: 4
+  '28':
+    material: GOLD_INGOT
+    chance: 0.15
+    minAmount: 1
+    maxAmount: 4
+  '29':
+    material: RAW_GOLD
+    chance: 0.15
+    minAmount: 1
+    maxAmount: 4
+  '30':
+    material: LAPIS_LAZULI
+    chance: 0.15
+    minAmount: 3
+    maxAmount: 6
+  '31':
+    material: DIAMOND
+    chance: 0.05
+    minAmount: 1
+    maxAmount: 3
+  '32':
+    material: GOLDEN_APPLE
+    chance: 0.1
+    minAmount: 1
+    maxAmount: 3
+  '33':
+    material: GOLDEN_CARROT
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 6
+  '34':
+    material: COOKED_BEEF
+    chance: 0.4
+    minAmount: 1
+    maxAmount: 8
+  '35':
+    material: BREAD
+    chance: 0.6
+    minAmount: 1
+    maxAmount: 10
+  '37':
+    material: APPLE
+    chance: 0.8
+    minAmount: 1
+    maxAmount: 10
+  '38':
+    material: CARROT
+    chance: 0.8
+    minAmount: 1
+    maxAmount: 10
+  '39':
+    material: BEEF
+    chance: 0.8
+    minAmount: 1
+    maxAmount: 10
+  '40':
+    material: STONE
+    chance: 0.8
+    minAmount: 16
+    maxAmount: 64
+  '41':
+    material: COBBLESTONE
+    chance: 0.8
+    minAmount: 1
+    maxAmount: 16
+  '42':
+    material: OAK_LOG
+    chance: 0.8
+    minAmount: 1
+    maxAmount: 16
+
+

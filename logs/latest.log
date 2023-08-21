@@ -1,0 +1,166 @@
+[14:08:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:08:22] [ServerMain/INFO]: Loaded 7 recipes
+[14:08:22] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[14:08:22] [Server thread/INFO]: Loading properties
+[14:08:22] [Server thread/INFO]: This server is running Paper version git-Paper-108 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: d6d2b6f)
+[14:08:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:08:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:08:22] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[14:08:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[14:08:23] [Server thread/INFO]: Default game type: SURVIVAL
+[14:08:23] [Server thread/INFO]: Generating keypair
+[14:08:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:08:23] [Server thread/INFO]: Using epoll channel type
+[14:08:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:08:23] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[14:08:23] [Server thread/INFO]: [SurvivalGames] Loading server plugin SurvivalGames v1.0-SNAPSHOT
+[14:08:23] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.15+6463-5ca4dff
+[14:08:23] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@33510bff]
+[14:08:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:08:23] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.15+6463-5ca4dff
+[14:08:23] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[14:08:24] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:08:24] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
+[14:08:25] [Server thread/INFO]: Preparing level "world"
+[14:08:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:08:26] [Server thread/INFO]: Time elapsed: 202 ms
+[14:08:26] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:08:26] [Server thread/INFO]: Time elapsed: 43 ms
+[14:08:26] [Server thread/INFO]: [SurvivalGames] Enabling SurvivalGames v1.0-SNAPSHOT
+[14:08:26] [Server thread/INFO]: Preparing start region for dimension minecraft:lobby__active__1692616106457
+[14:08:26] [Server thread/INFO]: Time elapsed: 244 ms
+[14:08:27] [Server thread/INFO]: Running delayed init tasks
+[14:08:27] [Server thread/INFO]: Done (4.480s)! For help, type "help"
+[14:08:27] [Server thread/INFO]: Timings Reset
+[14:08:31] [User Authenticator #0/INFO]: UUID of player yob2 is 0c56bccf-1d78-4e67-96b1-3440028f9208
+[14:08:31] [Server thread/INFO]: yob2 joined the game
+[14:08:31] [Server thread/INFO]: yob2[/10.100.102.17:42030] logged in with entity id 185 at ([lobby__active__1692616106457]-319.5, 62.0, -340.5)
+[14:08:42] [User Authenticator #0/INFO]: UUID of player PhoenixWarrior is d40343fd-89aa-4669-8200-81f04fa28ae2
+[14:08:42] [Server thread/INFO]: PhoenixWarrior joined the game
+[14:08:42] [Server thread/INFO]: PhoenixWarrior[/77.137.65.128:2310] logged in with entity id 205 at ([lobby__active__1692616106457]-319.0, 62.0, -340.0)
+[14:08:44] [Server thread/INFO]: Made yob2 a server operator
+[14:08:44] [Server thread/INFO]: PhoenixWarrior issued server command: /gamemode spectator
+[14:08:46] [Server thread/INFO]: PhoenixWarrior issued server command: /gamemode survival
+[14:08:49] [Server thread/INFO]: PhoenixWarrior issued server command: /start
+[14:08:49] [Server thread/INFO]: Preparing start region for dimension minecraft:map1__active__1692616129432
+[14:08:49] [Server thread/INFO]: Time elapsed: 22 ms
+[14:08:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'lobby__active__1692616106457'
+[14:08:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'lobby__active__1692616106457'
+[14:08:50] [Server thread/INFO]: Preparing start region for dimension minecraft:lobby__active__1692616130163
+[14:08:50] [Server thread/INFO]: Time elapsed: 137 ms
+[14:09:00] [Server thread/INFO]: yob2 issued server command: /deop yob2
+[14:10:04] [Server thread/INFO]: PhoenixWarrior was slain by yob2 using [Fire Sword]
+[14:10:05] [Server thread/INFO]: yob2 has won the HungerGames!
+[14:10:13] [Server thread/INFO]: PhoenixWarrior issued server command: /skipgamestate
+[14:10:20] [Server thread/INFO]: PhoenixWarrior issued server command: /start
+[14:10:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Map1__active__1692616129432'
+[14:10:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Map1__active__1692616129432'
+[14:10:20] [Server thread/INFO]: Preparing start region for dimension minecraft:map1__active__1692616220314
+[14:10:20] [Server thread/INFO]: Time elapsed: 12 ms
+[14:10:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'lobby__active__1692616130163'
+[14:10:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'lobby__active__1692616130163'
+[14:10:21] [Server thread/INFO]: Preparing start region for dimension minecraft:lobby__active__1692616220861
+[14:10:21] [Server thread/INFO]: Time elapsed: 48 ms
+[14:12:22] [Server thread/INFO]: yob2 was slain by PhoenixWarrior
+[14:12:22] [Server thread/INFO]: PhoenixWarrior has won the HungerGames!
+[14:12:30] [Server thread/INFO]: PhoenixWarrior issued server command: /skipgamestate
+[14:12:41] [Server thread/INFO]: PhoenixWarrior has reached the goal [Sky's the Limit]
+[14:12:57] [Server thread/INFO]: PhoenixWarrior issued server command: /start
+[14:12:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Map1__active__1692616220314'
+[14:12:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Map1__active__1692616220314'
+[14:12:58] [Server thread/INFO]: Preparing start region for dimension minecraft:map1__active__1692616377913
+[14:12:58] [Server thread/INFO]: Time elapsed: 18 ms
+[14:12:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'lobby__active__1692616220861'
+[14:12:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'lobby__active__1692616220861'
+[14:12:58] [Server thread/INFO]: Preparing start region for dimension minecraft:lobby__active__1692616378429
+[14:12:58] [Server thread/INFO]: Time elapsed: 78 ms
+[14:16:13] [Server thread/INFO]: PhoenixWarrior issued server command: /buy
+[14:16:19] [Server thread/INFO]: PhoenixWarrior issued server command: /buy
+[14:16:23] [Server thread/INFO]: PhoenixWarrior issued server command: /buy
+[14:18:22] [Server thread/INFO]: yob2 was slain by PhoenixWarrior
+[14:18:23] [Server thread/INFO]: PhoenixWarrior has won the HungerGames!
+[14:19:07] [Server thread/INFO]: PhoenixWarrior issued server command: /start
+[14:19:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Map1__active__1692616377913'
+[14:19:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Map1__active__1692616377913'
+[14:19:08] [Server thread/INFO]: Preparing start region for dimension minecraft:map1__active__1692616747900
+[14:19:08] [Server thread/INFO]: Time elapsed: 10 ms
+[14:19:08] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'lobby__active__1692616378429'
+[14:19:08] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'lobby__active__1692616378429'
+[14:19:08] [Server thread/INFO]: Preparing start region for dimension minecraft:lobby__active__1692616748403
+[14:19:08] [Server thread/INFO]: Time elapsed: 43 ms
+[14:21:24] [Server thread/INFO]: yob2 issued server command: /buy
+[14:21:28] [Server thread/INFO]: yob2 issued server command: /buy
+[14:23:15] [Server thread/INFO]: PhoenixWarrior issued server command: /buy
+[14:23:21] [Server thread/INFO]: PhoenixWarrior issued server command: /buy
+[14:24:10] [Server thread/INFO]: yob2 was slain by PhoenixWarrior
+[14:24:10] [Server thread/INFO]: PhoenixWarrior has won the HungerGames!
+[14:24:18] [Server thread/INFO]: PhoenixWarrior issued server command: /buy
+[14:24:24] [Server thread/INFO]: PhoenixWarrior issued server command: /skipgamestate
+[14:24:32] [Server thread/INFO]: PhoenixWarrior issued server command: /start
+[14:24:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Map1__active__1692616747900'
+[14:24:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Map1__active__1692616747900'
+[14:24:32] [Server thread/INFO]: Preparing start region for dimension minecraft:map1__active__1692617072691
+[14:24:32] [Server thread/INFO]: Time elapsed: 10 ms
+[14:24:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'lobby__active__1692616748403'
+[14:24:33] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'lobby__active__1692616748403'
+[14:24:33] [Server thread/INFO]: Preparing start region for dimension minecraft:lobby__active__1692617073179
+[14:24:33] [Server thread/INFO]: Time elapsed: 40 ms
+[14:24:35] [Server thread/INFO]: PhoenixWarrior issued server command: /skipgamestate
+[14:24:39] [Server thread/INFO]: PhoenixWarrior issued server command: /gamemode creative
+[14:25:59] [Server thread/INFO]: PhoenixWarrior issued server command: /gamemode survival
+[14:26:43] [Server thread/INFO]: yob2 was slain by PhoenixWarrior
+[14:26:43] [Server thread/INFO]: PhoenixWarrior has won the HungerGames!
+[14:27:02] [Server thread/INFO]: PhoenixWarrior issued server command: /buy
+[14:27:20] [Server thread/INFO]: PhoenixWarrior lost connection: Disconnected
+[14:27:20] [Server thread/INFO]: PhoenixWarrior left the game
+[14:27:39] [Server thread/INFO]: yob2 lost connection: Disconnected
+[14:27:39] [Server thread/INFO]: yob2 left the game
+[14:38:49] [Server console handler/ERROR]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Input/output error
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.20.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:102) ~[paper-1.20.1.jar:git-Paper-108]
+Caused by: java.io.IOException: Input/output error
+	at java.io.FileInputStream.read0(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:228) ~[?:?]
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160) ~[jline-reader-3.20.0.jar:?]
+	... 9 more
+[14:38:50] [Server thread/INFO]: Stopping server
+[14:38:50] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.15+6463-5ca4dff
+[14:38:50] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[14:38:50] [Server thread/INFO]: [SurvivalGames] Disabling SurvivalGames v1.0-SNAPSHOT
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'lobby__active__1692617073179'
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'lobby__active__1692617073179'
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Map1__active__1692617072691'
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Map1__active__1692617072691'
+[14:38:50] [Server thread/INFO]: Saving players
+[14:38:50] [Server thread/INFO]: Saving worlds
+[14:38:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
+[14:38:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:38:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[14:38:50] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[14:38:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:38:50] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:38:50] [Server thread/INFO]: Flushing Chunk IO
+[14:38:50] [Server thread/INFO]: Closing Thread Pool
+[14:38:50] [Server thread/INFO]: Closing Server
