@@ -144,7 +144,7 @@ lootItems:
     material: EXPERIENCE_BOTTLE
     chance: 0.4
     minAmount: 1
-    maxAmount: 10
+    maxAmount: 16
   '24':
     material: GOLDEN_PICKAXE
     name: '&a$Money Pickaxe$'
@@ -181,9 +181,9 @@ lootItems:
     maxAmount: 4
   '30':
     material: LAPIS_LAZULI
-    chance: 0.15
-    minAmount: 3
-    maxAmount: 6
+    chance: 0.3
+    minAmount: 1
+    maxAmount: 16
   '31':
     material: DIAMOND
     chance: 0.05
