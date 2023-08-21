@@ -181,7 +181,7 @@ lootItems:
     maxAmount: 4
   '30':
     material: LAPIS_LAZULI
-    chance: 0.3
+    chance: 0.4
     minAmount: 1
     maxAmount: 16
   '31':
@@ -240,8 +240,7 @@ lootItems:
     minAmount: 1
     maxAmount: 16
   '43':
-    material: WOODEN_PICKAXE
-    chance: 1
+    material: IRON_PICKAXE
+    chance: 0.2
     minAmount: 1
     maxAmount: 1
-
