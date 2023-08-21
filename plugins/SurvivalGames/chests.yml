@@ -239,5 +239,9 @@ lootItems:
     chance: 0.8
     minAmount: 1
     maxAmount: 16
-
+  '43':
+    material: WOODEN_PICKAXE
+    chance: 1
+    minAmount: 1
+    maxAmount: 1
 
